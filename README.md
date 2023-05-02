@@ -9,6 +9,7 @@ This repository is for learning purpose only. This project consist the following
 * Design Pattern
 * Project Layers
 * MYSQL 
+* Custom Communication Protocol
 
 ## Getting Started
 

@@ -1,0 +1,75 @@
+﻿<Properties StartupConfiguration="{EEDBAF00-D475-4F55-AE2E-BA1B5A94FB66}|Unit Tests">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/deepanshujain/Desktop/L&amp;C Project/sportscarnival/SportsCarnival/SportsCarnival/Protocols</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/deepanshujain/Desktop/L&amp;C Project/sportscarnival/SportsCarnival/SportsCarnival/Service/AdminService/AdminService.cs" relfile="Service/AdminService/AdminService.cs" line="96" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Service/TeamPlayerService.cs">
+    <Files>
+      <File FileName="Data/TeamsInputJSON.json" />
+      <File FileName="Models/Match.cs" />
+      <File FileName="Service/AdminService.cs" Line="96" Column="2" />
+      <File FileName="AdminController.cs" Line="35" Column="10" />
+      <File FileName="Models/JSONError.cs" />
+      <File FileName="Exception/JSONException.cs" />
+      <File FileName="Service/EventService.cs" Line="1" Column="1" />
+      <File FileName="Repository /AdminRepository.cs" />
+      <File FileName="Service/TeamPlayerService.cs" Line="1" Column="1" />
+      <File FileName="Exception/CommunicationException.cs" />
+      <File FileName="Data/FixtureInputJSON.json" />
+      <File FileName="Service/TeamService.cs" Line="48" Column="10" />
+      <File FileName="Service/GameService.cs" />
+      <File FileName="Program.cs" Line="6" Column="35" />
+      <File FileName="Global/GlobalService.cs" />
+      <File FileName="Global/Global.cs" />
+      <File FileName="Server/Server.cs" />
+      <File FileName="../CommunicationProtocol/Protocol.cs" />
+      <File FileName="../Client/ClientService.cs" />
+      <File FileName="Service/JSONService.cs" Line="1" Column="1" />
+      <File FileName="Wrapper/JsonUtils.cs" />
+      <File FileName="../Client/Program.cs" />
+      <File FileName="Service/MysqlService.cs" Line="1" Column="1" />
+      <File FileName="Service/Constants.cs" Line="8" Column="31" />
+      <File FileName="Data/TeamsOutput.json" />
+      <File FileName="Exception/TeamsNotCreatedException.cs" />
+      <File FileName="../SportsCarnivalTest/UnitTest1.cs" Line="40" Column="6" />
+      <File FileName="../SportsCarnivalTest/Usings.cs" Line="1" Column="1" />
+      <File FileName="Service/PlayerService.cs" Line="1" Column="1" />
+      <File FileName="Enums/GameType.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SportsCarnival" expanded="True">
+            <Node name="SportsCarnival" expanded="True">
+              <Node name="Service" expanded="True">
+                <Node name="TeamPlayerService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="SportsCarnivalTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SportsCarnival" expanded="True" selected="True">
+            <Node name="SportsCarnivalTest" expanded="True">
+              <Node name="SportsCarnivalTest" expanded="True">
+                <Node name="CreateTeamTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SportsCarnival PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SportsCarnivalTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

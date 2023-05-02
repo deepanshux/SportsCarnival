@@ -1,0 +1,35 @@
+{
+  "teams": [
+    {
+      "players": [
+        {
+          "playerId": 1,
+          "name": "A"
+        },
+        {
+          "playerId": 2,
+          "name": "B"
+        }
+      ],
+      "id": 1,
+      "name": "Team - 1",
+      "gameType": 2
+    },
+    {
+      "players": [
+        {
+          "playerId": 3,
+          "name": "C"
+        },
+        {
+          "playerId": 4,
+          "name": "D"
+        }
+      ],
+      "id": 2,
+      "name": "Team - 2",
+      "gameType": 2
+    }
+  ],
+  "total": 2
+}
